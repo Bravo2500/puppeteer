@@ -240,4 +240,8 @@ You may find that Puppeteer does not behave as expected when controlling pages t
 #### Q: I am having trouble installing / running Puppeteer in my test environment?
 We have a [troubleshooting](https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md) guide for various operating systems that lists the required dependencies.
 
+# Donation
+
+Bitcoin: 1JpKyCj6edEunhTsQNumsL5JDR6dMSqav5
+
 <!-- [END faq] -->
